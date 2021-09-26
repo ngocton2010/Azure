@@ -1,0 +1,9 @@
+tensorflow
+keras
+opencv-python
+pillow
+flask
+flask-cors
+SciPy
+tensorflowjs
+PyInquirer==1.0.3
